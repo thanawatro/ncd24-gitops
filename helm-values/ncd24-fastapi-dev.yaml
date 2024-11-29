@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/thanawatro/ncd24-fastapi
-  tag: dev-1389d1c
+  tag: dev-bb9c9cc
   pullPolicy: Always
 probe:
   enabled: true
